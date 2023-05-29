@@ -53,9 +53,9 @@ O sistema inclui testes unitários para verificar o funcionamento correto das fu
 3. test_calcular_total: Verifica se o cálculo do valor total da compra no carrinho está correto.
 4. test_sortProdutos: Verifica se os produtos no carrinho são ordenados corretamente usando um algoritmo de ordenação específico.
 
-Para executar os [testes unitários](https://github.com/ThiagoMiguel7/C214_DesignPatterns/blob/main/Exercicio_1/test_file.py), vá para o arquivo `test_file.py`. No terminal ou IDE, execute o arquivo ou os testes individualmente para verificar a funcionalidade correta do sistema.
+Para executar os [testes unitários](https://github.com/ThiagoMiguel7/C214_DesignPatterns/blob/main/Exercicio_1/test/test_file.py), vá para o arquivo `test_file.py`. No terminal ou IDE, execute o arquivo ou os testes individualmente para verificar a funcionalidade correta do sistema.
 
-![Badge do CI](/badge.svg)
+[![Python - Unittest](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/python-app.yml/badge.svg)](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/python-app.yml)
 
 ### :computer: Exercício 02 - Programa Frase
 
@@ -76,9 +76,9 @@ O sistema inclui testes unitários para verificar o funcionamento correto das fu
 3. test_count_even_char_words: Verifica se as contagens são corretas para uma lista de palavras com todas as palavras tendo um número par de caracteres.
 4. test_count_start_uppercase_words: Verifica se as contagens são corretas para uma lista de palavras com todas as palavras começando com letra maiúscula.
 
-Para executar os [testes unitários](https://github.com/ThiagoMiguel7/C214_DesignPatterns/blob/main/Exercicio_2/test_file.py), vá para o arquivo `test_file.py`. No terminal ou IDE, execute o arquivo ou os testes individualmente para verificar a funcionalidade correta do sistema.
+Para executar os [testes unitários](https://github.com/ThiagoMiguel7/C214_DesignPatterns/blob/main/Exercicio_2/test/test_file.py), vá para o arquivo `test_file.py`. No terminal ou IDE, execute o arquivo ou os testes individualmente para verificar a funcionalidade correta do sistema.
 
-![Badge do CI](/badge.svg)
+[![Python - Unittest](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/python-app.yml/badge.svg)](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/python-app.yml)
 
 ### :mens: Autores
 
