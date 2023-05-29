@@ -22,7 +22,7 @@
 
 Para executar os projetos, siga as instruções abaixo:
 
-1. Certifique-se de ter o [Python](python.org) instalado em sua máquina.
+1. Certifique-se de ter o [Python](https://www.python.org) instalado em sua máquina.
 2. Faça o download do código do GitHub ou clone o repositório: `git clone https://github.com/ThiagoMiguel7/C214_DesignPatterns`. Certifique-se de ter o [Git](https://git-scm.com) instalado.
 3. Abra o terminal ou prompt de comando e navegue até o diretório raiz do projeto.
 4. Execute o arquivo `Exercicio_1\main.py` para o [Design Pattern Strategy](https://github.com/ThiagoMiguel7/C214_DesignPatterns/blob/main/Exercicio_1/main.py) e o arquivo `Exercicio_2\main.py` para o [Design Pattern Observer](https://github.com/ThiagoMiguel7/C214_DesignPatterns/blob/main/Exercicio_2/main.py).
