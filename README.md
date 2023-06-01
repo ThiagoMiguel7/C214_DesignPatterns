@@ -1,3 +1,7 @@
+[![StrategyCI](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/strategy.yml/badge.svg)](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/strategy.yml)
+[![ObserverCI](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/observer.yml/badge.svg)](https://github.com/ThiagoMiguel7/C214_DesignPatterns/actions/workflows/observer.yml)
+
+
 <h1 align="center"> C214 - Design Pattern </h1>
 <p>
   <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=00bfff&style=plastic"/>
